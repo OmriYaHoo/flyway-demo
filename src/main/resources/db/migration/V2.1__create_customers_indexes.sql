@@ -1,1 +1,1 @@
--- create index idx_customer_name on customers (name);
+create index idx_customer_name on customers (name);

@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: "jdbc:mysql://localhost:33061/migration?autoreconnect=true"
+    password: "root"
+    username: "root"
